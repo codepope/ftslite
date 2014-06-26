@@ -1,0 +1,16 @@
+{
+  "name": "ftslite",
+  "version": "0.0.0",
+  "description": "A simple front end to a full text search collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.4",
+    "mongodb": "^1.4.7"
+  }
+}
