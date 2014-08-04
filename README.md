@@ -3,4 +3,4 @@ ftslite
 
 An example of using MongoDB Full Text Search from Node.js
 
-Article coming soon.
+Read the details on the [MongoHQ Blog](http://blog.mongohq.com/full-text-search-with-mongodb-and-node-js/)
